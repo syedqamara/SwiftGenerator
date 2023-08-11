@@ -1,0 +1,15 @@
+{
+  "first_experiment_static_variable_name": {
+    "id": "test_experiment1",
+    "type": "bool",
+    "default_value": "true",
+    "info": "test_experiment1 This feature is used to test the Experimentations."
+  },
+  "second_experiment_static_variable_name": {
+    "id": "test_experiment2",
+    "type": "string",
+    "default_value": "some_data_in_experiment",
+    "info": "test_experiment1 This feature is used to test the Experimentations."
+  }
+}
+ 
