@@ -1,0 +1,77 @@
+{
+  "": {
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/master.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/combine-schedulers/Sources/CombineSchedulers/AnyScheduler.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/AnyScheduler.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/AnyScheduler.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/AnyScheduler~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/AnyScheduler.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/combine-schedulers/Sources/CombineSchedulers/Concurrency.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/Concurrency.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/Concurrency.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/Concurrency~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/Concurrency.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/combine-schedulers/Sources/CombineSchedulers/ImmediateScheduler.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/ImmediateScheduler.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/ImmediateScheduler.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/ImmediateScheduler~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/ImmediateScheduler.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/combine-schedulers/Sources/CombineSchedulers/Internal/Deprecations.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/Internal/Deprecations.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/Internal/Deprecations.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/Internal/Deprecations~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/Internal/Deprecations.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/combine-schedulers/Sources/CombineSchedulers/Internal/Lock.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/Internal/Lock.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/Internal/Lock.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/Internal/Lock~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/Internal/Lock.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/combine-schedulers/Sources/CombineSchedulers/Internal/NSRecursiveLock.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/Internal/NSRecursiveLock.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/Internal/NSRecursiveLock.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/Internal/NSRecursiveLock~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/Internal/NSRecursiveLock.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/combine-schedulers/Sources/CombineSchedulers/SwiftUI.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/SwiftUI.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/SwiftUI.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/SwiftUI~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/SwiftUI.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/combine-schedulers/Sources/CombineSchedulers/TestScheduler.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/TestScheduler.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/TestScheduler.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/TestScheduler~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/TestScheduler.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/combine-schedulers/Sources/CombineSchedulers/Timer.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/Timer.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/Timer.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/Timer~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/Timer.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/combine-schedulers/Sources/CombineSchedulers/UIKit.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/UIKit.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/UIKit.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/UIKit~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/UIKit.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/combine-schedulers/Sources/CombineSchedulers/UIScheduler.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/UIScheduler.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/UIScheduler.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/UIScheduler~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/UIScheduler.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/combine-schedulers/Sources/CombineSchedulers/UnimplementedScheduler.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/UnimplementedScheduler.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/UnimplementedScheduler.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/UnimplementedScheduler~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/UnimplementedScheduler.swiftdeps"
+  }
+}

@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "58a42a654c474d6e3a5771215d80d2f3901b4a0d8c4eb3a316da5a2147bf84b6"
+build_start_time: [1691281761, 344822883]
+build_end_time: [1691281761, 661648035]
+inputs:
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/swift-syntax/Sources/SwiftSyntaxParser/Diagnostic.swift"
+  : [1691281739, 337231159]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/swift-syntax/Sources/SwiftSyntaxParser/SyntaxParser.swift"
+  : [1691281739, 337426662]

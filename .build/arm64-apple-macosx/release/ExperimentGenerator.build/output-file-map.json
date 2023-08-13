@@ -1,0 +1,17 @@
+{
+  "": {
+    "dependencies": "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/ExperimentGenerator.build/ExperimentGenerator.d",
+    "object": "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/ExperimentGenerator.build/ExperimentGenerator.o",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/ExperimentGenerator.build/master.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/Sources/ExperimentGenerator/ExperimentGenerator.swift": {
+    "object": "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/ExperimentGenerator.build/ExperimentGenerator.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/ExperimentGenerator.build/ExperimentGenerator~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/ExperimentGenerator.build/ExperimentGenerator.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/Sources/ExperimentGenerator/experiment_gen.swift": {
+    "object": "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/ExperimentGenerator.build/experiment_gen.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/ExperimentGenerator.build/experiment_gen~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/ExperimentGenerator.build/experiment_gen.swiftdeps"
+  }
+}

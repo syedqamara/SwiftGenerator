@@ -1,0 +1,4 @@
+module IDEUtils {
+    header "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/IDEUtils.build/IDEUtils-Swift.h"
+    requires objc
+}

@@ -1,0 +1,15 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "5465ac8ae9645d25cabbf9742763e91cf21d8c81346347be4ab5bb77dd103c6c"
+build_start_time: [1691281759, 854061126]
+build_end_time: [1691281759, 983517169]
+inputs:
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/swift-syntax/Sources/SwiftDiagnostics/Diagnostic.swift"
+  : [1691281739, 289059638]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/swift-syntax/Sources/SwiftDiagnostics/DiagnosticsFormatter.swift"
+  : [1691281739, 289303302]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/swift-syntax/Sources/SwiftDiagnostics/FixIt.swift"
+  : [1691281739, 289386272]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/swift-syntax/Sources/SwiftDiagnostics/Message.swift"
+  : [1691281739, 289453506]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/swift-syntax/Sources/SwiftDiagnostics/Note.swift"
+  : [1691281739, 289518356]

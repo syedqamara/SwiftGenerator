@@ -1,0 +1,4 @@
+module Clocks {
+    header "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/Clocks.build/Clocks-Swift.h"
+    requires objc
+}

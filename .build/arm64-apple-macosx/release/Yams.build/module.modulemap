@@ -1,0 +1,4 @@
+module Yams {
+    header "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/Yams.build/Yams-Swift.h"
+    requires objc
+}

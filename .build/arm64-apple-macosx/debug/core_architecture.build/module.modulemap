@@ -1,0 +1,4 @@
+module core_architecture {
+    header "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/core_architecture-Swift.h"
+    requires objc
+}

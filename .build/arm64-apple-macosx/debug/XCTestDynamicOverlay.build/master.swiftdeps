@@ -1,0 +1,21 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "add5029d414444d0d2f790080cd56e765950b26d66a626586ddfc0aff8260fbd"
+build_start_time: [1691281744, 860291004]
+build_end_time: [1691281748, 498680114]
+inputs:
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/xctest-dynamic-overlay/Sources/XCTestDynamicOverlay/Internal/DefaultInitializable.swift"
+  : [1691281739, 120564222]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/xctest-dynamic-overlay/Sources/XCTestDynamicOverlay/Internal/Deprecations.swift"
+  : [1691281739, 120672464]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/xctest-dynamic-overlay/Sources/XCTestDynamicOverlay/Internal/GeneratePlaceholder.swift"
+  : [1691281739, 120789766]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/xctest-dynamic-overlay/Sources/XCTestDynamicOverlay/Internal/RuntimeWarnings.swift"
+  : [1691281739, 120858907]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/xctest-dynamic-overlay/Sources/XCTestDynamicOverlay/Internal/XCTCurrentTestCase.swift"
+  : [1691281739, 120956420]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/xctest-dynamic-overlay/Sources/XCTestDynamicOverlay/Unimplemented.swift"
+  : [1691281739, 121040821]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/xctest-dynamic-overlay/Sources/XCTestDynamicOverlay/XCTFail.swift"
+  : [1691281739, 121290445]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/xctest-dynamic-overlay/Sources/XCTestDynamicOverlay/XCTIsTesting.swift"
+  : [1691281739, 121356487]

@@ -1,0 +1,95 @@
+{
+  "": {
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/master.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/SwiftExtractor/Sources/SwiftExtractor/SwiftParser/FileLoader.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/SwiftParser/FileLoader.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/SwiftParser/FileLoader.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/SwiftParser/FileLoader~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/SwiftParser/FileLoader.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/SwiftExtractor/Sources/SwiftExtractor/SwiftParser/SwiftCodeParse.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/SwiftParser/SwiftCodeParse.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/SwiftParser/SwiftCodeParse.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/SwiftParser/SwiftCodeParse~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/SwiftParser/SwiftCodeParse.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/SwiftExtractor/Sources/SwiftExtractor/Swiftly/CodeModeling/Language.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/CodeModeling/Language.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/CodeModeling/Language.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/CodeModeling/Language~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/CodeModeling/Language.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/SwiftExtractor/Sources/SwiftExtractor/Swiftly/CodeModeling/Swiftly.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/CodeModeling/Swiftly.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/CodeModeling/Swiftly.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/CodeModeling/Swiftly~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/CodeModeling/Swiftly.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/SwiftExtractor/Sources/SwiftExtractor/Swiftly/Extension/Swift+Extensions.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/Extension/Swift+Extensions.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/Extension/Swift+Extensions.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/Extension/Swift+Extensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/Extension/Swift+Extensions.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/SwiftExtractor/Sources/SwiftExtractor/Swiftly/Extension/SwiftSyntax+Shortucts.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/Extension/SwiftSyntax+Shortucts.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/Extension/SwiftSyntax+Shortucts.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/Extension/SwiftSyntax+Shortucts~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/Extension/SwiftSyntax+Shortucts.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/SwiftExtractor/Sources/SwiftExtractor/Swiftly/Extractors/ClassExtractor.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/Extractors/ClassExtractor.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/Extractors/ClassExtractor.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/Extractors/ClassExtractor~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/Extractors/ClassExtractor.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/SwiftExtractor/Sources/SwiftExtractor/Swiftly/Extractors/EnumExtractor.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/Extractors/EnumExtractor.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/Extractors/EnumExtractor.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/Extractors/EnumExtractor~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/Extractors/EnumExtractor.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/SwiftExtractor/Sources/SwiftExtractor/Swiftly/Extractors/GenericTypeExtractor.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/Extractors/GenericTypeExtractor.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/Extractors/GenericTypeExtractor.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/Extractors/GenericTypeExtractor~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/Extractors/GenericTypeExtractor.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/SwiftExtractor/Sources/SwiftExtractor/Swiftly/Extractors/MethodExtractor.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/Extractors/MethodExtractor.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/Extractors/MethodExtractor.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/Extractors/MethodExtractor~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/Extractors/MethodExtractor.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/SwiftExtractor/Sources/SwiftExtractor/Swiftly/Extractors/ProtocolExtractor.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/Extractors/ProtocolExtractor.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/Extractors/ProtocolExtractor.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/Extractors/ProtocolExtractor~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/Extractors/ProtocolExtractor.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/SwiftExtractor/Sources/SwiftExtractor/Swiftly/Extractors/StructureExtractor.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/Extractors/StructureExtractor.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/Extractors/StructureExtractor.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/Extractors/StructureExtractor~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/Extractors/StructureExtractor.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/SwiftExtractor/Sources/SwiftExtractor/Swiftly/Extractors/SwiftExtractor.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/Extractors/SwiftExtractor.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/Extractors/SwiftExtractor.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/Extractors/SwiftExtractor~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/Extractors/SwiftExtractor.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/SwiftExtractor/Sources/SwiftExtractor/Swiftly/Extractors/SwiftVisitor.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/Extractors/SwiftVisitor.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/Extractors/SwiftVisitor.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/Extractors/SwiftVisitor~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/Extractors/SwiftVisitor.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/SwiftExtractor/Sources/SwiftExtractor/Swiftly/Extractors/VariableExtractor.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/Extractors/VariableExtractor.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/Extractors/VariableExtractor.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/Extractors/VariableExtractor~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/Swiftly/Extractors/VariableExtractor.swiftdeps"
+  }
+}

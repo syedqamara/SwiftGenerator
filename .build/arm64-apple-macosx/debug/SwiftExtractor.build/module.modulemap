@@ -1,0 +1,4 @@
+module SwiftExtractor {
+    header "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftExtractor.build/SwiftExtractor-Swift.h"
+    requires objc
+}

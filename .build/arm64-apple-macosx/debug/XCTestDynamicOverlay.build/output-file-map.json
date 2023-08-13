@@ -1,0 +1,53 @@
+{
+  "": {
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/XCTestDynamicOverlay.build/master.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/xctest-dynamic-overlay/Sources/XCTestDynamicOverlay/Internal/DefaultInitializable.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/XCTestDynamicOverlay.build/Internal/DefaultInitializable.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/XCTestDynamicOverlay.build/Internal/DefaultInitializable.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/XCTestDynamicOverlay.build/Internal/DefaultInitializable~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/XCTestDynamicOverlay.build/Internal/DefaultInitializable.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/xctest-dynamic-overlay/Sources/XCTestDynamicOverlay/Internal/Deprecations.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/XCTestDynamicOverlay.build/Internal/Deprecations.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/XCTestDynamicOverlay.build/Internal/Deprecations.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/XCTestDynamicOverlay.build/Internal/Deprecations~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/XCTestDynamicOverlay.build/Internal/Deprecations.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/xctest-dynamic-overlay/Sources/XCTestDynamicOverlay/Internal/GeneratePlaceholder.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/XCTestDynamicOverlay.build/Internal/GeneratePlaceholder.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/XCTestDynamicOverlay.build/Internal/GeneratePlaceholder.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/XCTestDynamicOverlay.build/Internal/GeneratePlaceholder~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/XCTestDynamicOverlay.build/Internal/GeneratePlaceholder.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/xctest-dynamic-overlay/Sources/XCTestDynamicOverlay/Internal/RuntimeWarnings.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/XCTestDynamicOverlay.build/Internal/RuntimeWarnings.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/XCTestDynamicOverlay.build/Internal/RuntimeWarnings.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/XCTestDynamicOverlay.build/Internal/RuntimeWarnings~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/XCTestDynamicOverlay.build/Internal/RuntimeWarnings.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/xctest-dynamic-overlay/Sources/XCTestDynamicOverlay/Internal/XCTCurrentTestCase.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/XCTestDynamicOverlay.build/Internal/XCTCurrentTestCase.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/XCTestDynamicOverlay.build/Internal/XCTCurrentTestCase.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/XCTestDynamicOverlay.build/Internal/XCTCurrentTestCase~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/XCTestDynamicOverlay.build/Internal/XCTCurrentTestCase.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/xctest-dynamic-overlay/Sources/XCTestDynamicOverlay/Unimplemented.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/XCTestDynamicOverlay.build/Unimplemented.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/XCTestDynamicOverlay.build/Unimplemented.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/XCTestDynamicOverlay.build/Unimplemented~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/XCTestDynamicOverlay.build/Unimplemented.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/xctest-dynamic-overlay/Sources/XCTestDynamicOverlay/XCTFail.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/XCTestDynamicOverlay.build/XCTFail.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/XCTestDynamicOverlay.build/XCTFail.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/XCTestDynamicOverlay.build/XCTFail~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/XCTestDynamicOverlay.build/XCTFail.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/xctest-dynamic-overlay/Sources/XCTestDynamicOverlay/XCTIsTesting.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/XCTestDynamicOverlay.build/XCTIsTesting.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/XCTestDynamicOverlay.build/XCTIsTesting.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/XCTestDynamicOverlay.build/XCTIsTesting~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/XCTestDynamicOverlay.build/XCTIsTesting.swiftdeps"
+  }
+}

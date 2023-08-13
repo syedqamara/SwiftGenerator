@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/ExperimentGenerator.build/master.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/Sources/ExperimentGenerator/ExperimentGenerator.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/ExperimentGenerator.build/ExperimentGenerator.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/ExperimentGenerator.build/ExperimentGenerator.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/ExperimentGenerator.build/ExperimentGenerator~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/ExperimentGenerator.build/ExperimentGenerator.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/Sources/ExperimentGenerator/experiment_gen.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/ExperimentGenerator.build/experiment_gen.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/ExperimentGenerator.build/experiment_gen.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/ExperimentGenerator.build/experiment_gen~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/ExperimentGenerator.build/experiment_gen.swiftdeps"
+  }
+}

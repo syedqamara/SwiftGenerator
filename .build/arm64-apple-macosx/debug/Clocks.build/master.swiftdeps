@@ -1,0 +1,23 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "b64b5359994ca4ac29215f6beb6be8b950ef39ef71c9479f72bc8b761797236e"
+build_start_time: [1691281748, 549127101]
+build_end_time: [1691281751, 996579170]
+inputs:
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/swift-clocks/Sources/Clocks/AnyClock.swift"
+  : [1691281739, 764474153]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/swift-clocks/Sources/Clocks/ImmediateClock.swift"
+  : [1691281739, 764814376]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/swift-clocks/Sources/Clocks/Internal/Lock.swift"
+  : [1691281739, 764899969]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/swift-clocks/Sources/Clocks/Internal/_AsyncTimerSequence.swift"
+  : [1691281739, 764966011]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/swift-clocks/Sources/Clocks/Shims.swift"
+  : [1691281739, 765020370]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/swift-clocks/Sources/Clocks/SwiftUI.swift"
+  : [1691281739, 765077114]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/swift-clocks/Sources/Clocks/TestClock.swift"
+  : [1691281739, 765160083]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/swift-clocks/Sources/Clocks/Timer.swift"
+  : [1691281739, 765220642]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/swift-clocks/Sources/Clocks/UnimplementedClock.swift"
+  : [1691281739, 765293836]

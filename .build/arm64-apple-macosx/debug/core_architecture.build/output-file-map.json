@@ -1,0 +1,107 @@
+{
+  "": {
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/master.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/core_architecture/Sources/core_architecture/Raw/DataSource/DataSourcing.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/DataSource/DataSourcing.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/DataSource/DataSourcing.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/DataSource/DataSourcing~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/DataSource/DataSourcing.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/core_architecture/Sources/core_architecture/Raw/DataSource/LocalDataSource.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/DataSource/LocalDataSource.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/DataSource/LocalDataSource.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/DataSource/LocalDataSource~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/DataSource/LocalDataSource.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/core_architecture/Sources/core_architecture/Raw/Dependency/DependencyInjection.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Dependency/DependencyInjection.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Dependency/DependencyInjection.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Dependency/DependencyInjection~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Dependency/DependencyInjection.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/core_architecture/Sources/core_architecture/Raw/Extensions/Extensions.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Extensions/Extensions.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Extensions/Extensions.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Extensions/Extensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Extensions/Extensions.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/core_architecture/Sources/core_architecture/Raw/Failure/Error.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Failure/Error.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Failure/Error.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Failure/Error~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Failure/Error.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/core_architecture/Sources/core_architecture/Raw/Failure/ErrorCodes.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Failure/ErrorCodes.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Failure/ErrorCodes.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Failure/ErrorCodes~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Failure/ErrorCodes.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/core_architecture/Sources/core_architecture/Raw/Failure/ErrorProvider.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Failure/ErrorProvider.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Failure/ErrorProvider.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Failure/ErrorProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Failure/ErrorProvider.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/core_architecture/Sources/core_architecture/Raw/Generation/Generatable.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Generation/Generatable.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Generation/Generatable.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Generation/Generatable~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Generation/Generatable.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/core_architecture/Sources/core_architecture/Raw/Generation/Obfuscatable.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Generation/Obfuscatable.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Generation/Obfuscatable.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Generation/Obfuscatable~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Generation/Obfuscatable.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/core_architecture/Sources/core_architecture/Raw/Generation/SourceCode.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Generation/SourceCode.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Generation/SourceCode.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Generation/SourceCode~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Generation/SourceCode.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/core_architecture/Sources/core_architecture/Raw/Module/Data/DataModel.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Module/Data/DataModel.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Module/Data/DataModel.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Module/Data/DataModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Module/Data/DataModel.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/core_architecture/Sources/core_architecture/Raw/Module/Data/UIModel/UIModel.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Module/Data/UIModel/UIModel.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Module/Data/UIModel/UIModel.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Module/Data/UIModel/UIModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Module/Data/UIModel/UIModel.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/core_architecture/Sources/core_architecture/Raw/Module/Module/Module/Module.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Module/Module/Module/Module.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Module/Module/Module/Module.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Module/Module/Module/Module~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Module/Module/Module/Module.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/core_architecture/Sources/core_architecture/Raw/Module/Module/ViewModuling/ViewModule.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Module/Module/ViewModuling/ViewModule.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Module/Module/ViewModuling/ViewModule.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Module/Module/ViewModuling/ViewModule~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Module/Module/ViewModuling/ViewModule.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/core_architecture/Sources/core_architecture/Raw/Module/View/View.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Module/View/View.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Module/View/View.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Module/View/View~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Module/View/View.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/core_architecture/Sources/core_architecture/Raw/Module/ViewModel/ViewModel.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Module/ViewModel/ViewModel.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Module/ViewModel/ViewModel.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Module/ViewModel/ViewModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/Raw/Module/ViewModel/ViewModel.swiftdeps"
+  },
+  "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/core_architecture/Sources/core_architecture/core_architecture.swift": {
+    "dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/core_architecture.d",
+    "object": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/core_architecture.swift.o",
+    "swiftmodule": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/core_architecture~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/core_architecture.build/core_architecture.swiftdeps"
+  }
+}

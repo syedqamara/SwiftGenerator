@@ -1,0 +1,394 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/ExperimentGeneratorPackageTests.xctest/Contents/MacOS/ExperimentGeneratorPackageTests",
+      "productName" : "ExperimentGeneratorPackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.ExperimentGenerator-release.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/Sources/ExperimentGenerator/ExperimentGenerator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/Sources/ExperimentGenerator/experiment_gen.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/Yams.swiftmodule"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "ExperimentGenerator",
+      "moduleOutputPath" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/ExperimentGenerator.swiftmodule",
+      "objects" : [
+        "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/ExperimentGenerator.build/ExperimentGenerator.swift.o",
+        "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/ExperimentGenerator.build/experiment_gen.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-swift-version",
+        "5",
+        "-O",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-Xcc",
+        "-fmodule-map-file=/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/CYaml/include/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/CYaml/include",
+        "-module-cache-path",
+        "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/ModuleCache",
+        "-parseable-output",
+        "-Xfrontend",
+        "-entry-point-function-name",
+        "-Xfrontend",
+        "ExperimentGenerator_main",
+        "-color-diagnostics",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/ExperimentGenerator.build/ExperimentGenerator.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/ExperimentGenerator.build/experiment_gen.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/ExperimentGenerator.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/Sources/ExperimentGenerator/ExperimentGenerator.swift",
+        "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/Sources/ExperimentGenerator/experiment_gen.swift"
+      ],
+      "tempsPath" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/ExperimentGenerator.build",
+      "wholeModuleOptimization" : true
+    },
+    "C.ExperimentGeneratorTests-release.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/Tests/ExperimentGeneratorTests/ExperimentGeneratorTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/ExperimentGenerator"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "ExperimentGeneratorTests",
+      "moduleOutputPath" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/ExperimentGeneratorTests.swiftmodule",
+      "objects" : [
+        "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/ExperimentGeneratorTests.build/ExperimentGeneratorTests.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx11.0",
+        "-swift-version",
+        "5",
+        "-index-store-path",
+        "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/index/store",
+        "-O",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-Xcc",
+        "-fmodule-map-file=/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/CYaml/include/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/CYaml/include",
+        "-module-cache-path",
+        "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-color-diagnostics",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/ExperimentGeneratorTests.build/ExperimentGeneratorTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/ExperimentGeneratorTests.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/Tests/ExperimentGeneratorTests/ExperimentGeneratorTests.swift"
+      ],
+      "tempsPath" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/ExperimentGeneratorTests.build",
+      "wholeModuleOptimization" : true
+    },
+    "C.Yams-release.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/Yams/Constructor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/Yams/Decoder.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/Yams/Emitter.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/Yams/Encoder.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/Yams/Mark.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/Yams/Node.Mapping.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/Yams/Node.Scalar.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/Yams/Node.Sequence.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/Yams/Node.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/Yams/Parser.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/Yams/Representer.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/Yams/Resolver.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/Yams/String+Yams.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/Yams/Tag.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/Yams/YamlError.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/CYaml.build/src/api.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/CYaml.build/src/emitter.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/CYaml.build/src/parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/CYaml.build/src/reader.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/CYaml.build/src/scanner.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/CYaml.build/src/writer.c.o"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "Yams",
+      "moduleOutputPath" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/Yams.swiftmodule",
+      "objects" : [
+        "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/Yams.build/Constructor.swift.o",
+        "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/Yams.build/Decoder.swift.o",
+        "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/Yams.build/Emitter.swift.o",
+        "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/Yams.build/Encoder.swift.o",
+        "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/Yams.build/Mark.swift.o",
+        "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/Yams.build/Node.Mapping.swift.o",
+        "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/Yams.build/Node.Scalar.swift.o",
+        "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/Yams.build/Node.Sequence.swift.o",
+        "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/Yams.build/Node.swift.o",
+        "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/Yams.build/Parser.swift.o",
+        "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/Yams.build/Representer.swift.o",
+        "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/Yams.build/Resolver.swift.o",
+        "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/Yams.build/String+Yams.swift.o",
+        "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/Yams.build/Tag.swift.o",
+        "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/Yams.build/YamlError.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-swift-version",
+        "5",
+        "-O",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-Xcc",
+        "-fmodule-map-file=/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/CYaml/include/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/CYaml/include",
+        "-module-cache-path",
+        "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/Yams.build/Yams-Swift.h",
+        "-color-diagnostics",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-suppress-warnings"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/Yams.build/Constructor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/Yams.build/Decoder.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/Yams.build/Emitter.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/Yams.build/Encoder.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/Yams.build/Mark.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/Yams.build/Node.Mapping.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/Yams.build/Node.Scalar.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/Yams.build/Node.Sequence.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/Yams.build/Node.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/Yams.build/Parser.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/Yams.build/Representer.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/Yams.build/Resolver.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/Yams.build/String+Yams.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/Yams.build/Tag.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/Yams.build/YamlError.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/Yams.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/Yams/Constructor.swift",
+        "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/Yams/Decoder.swift",
+        "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/Yams/Emitter.swift",
+        "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/Yams/Encoder.swift",
+        "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/Yams/Mark.swift",
+        "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/Yams/Node.Mapping.swift",
+        "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/Yams/Node.Scalar.swift",
+        "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/Yams/Node.Sequence.swift",
+        "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/Yams/Node.swift",
+        "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/Yams/Parser.swift",
+        "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/Yams/Representer.swift",
+        "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/Yams/Resolver.swift",
+        "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/Yams/String+Yams.swift",
+        "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/Yams/Tag.swift",
+        "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/Yams/YamlError.swift"
+      ],
+      "tempsPath" : "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/release/Yams.build",
+      "wholeModuleOptimization" : true
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "testDiscoveryCommands" : {
+
+  }
+}

@@ -1,0 +1,4 @@
+module SwiftRefactor {
+    header "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftRefactor.build/SwiftRefactor-Swift.h"
+    requires objc
+}

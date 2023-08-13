@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "90c4a31aad55235ff052af07d82beb4a2bc7bb34503ddf702388ee7dc24b39b3"
+build_start_time: [1689823215, 113899946]
+build_end_time: [1689823215, 870558023]
+inputs:
+  ? "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/Sources/ExperimentGenerator/ExperimentGenerator.swift"
+  : [1689823179, 988317728]
+  ? "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/Sources/ExperimentGenerator/experiment_gen.swift"
+  : [1689819116, 713089704]

@@ -1,0 +1,4 @@
+module CombineSchedulers {
+    header "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/CombineSchedulers.build/CombineSchedulers-Swift.h"
+    requires objc
+}

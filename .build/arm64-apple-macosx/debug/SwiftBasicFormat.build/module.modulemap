@@ -1,0 +1,4 @@
+module SwiftBasicFormat {
+    header "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftBasicFormat.build/SwiftBasicFormat-Swift.h"
+    requires objc
+}

@@ -1,0 +1,35 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "d649f1bf4fbad281ef6ed836e92f0b07cb2d95e9e07fba887d94ea75506f3efe"
+build_start_time: [1691281761, 704552173]
+build_end_time: [1691281762, 444762945]
+inputs:
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/SwiftExtractor/Sources/SwiftExtractor/SwiftParser/FileLoader.swift"
+  : [1691281738, 881320476]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/SwiftExtractor/Sources/SwiftExtractor/SwiftParser/SwiftCodeParse.swift"
+  : [1691281738, 881393432]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/SwiftExtractor/Sources/SwiftExtractor/Swiftly/CodeModeling/Language.swift"
+  : [1691281738, 881526947]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/SwiftExtractor/Sources/SwiftExtractor/Swiftly/CodeModeling/Swiftly.swift"
+  : [1691281738, 881600379]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/SwiftExtractor/Sources/SwiftExtractor/Swiftly/Extension/Swift+Extensions.swift"
+  : [1691281738, 881695747]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/SwiftExtractor/Sources/SwiftExtractor/Swiftly/Extension/SwiftSyntax+Shortucts.swift"
+  : [1691281738, 881764173]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/SwiftExtractor/Sources/SwiftExtractor/Swiftly/Extractors/ClassExtractor.swift"
+  : [1691281738, 881859302]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/SwiftExtractor/Sources/SwiftExtractor/Swiftly/Extractors/EnumExtractor.swift"
+  : [1691281738, 881914615]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/SwiftExtractor/Sources/SwiftExtractor/Swiftly/Extractors/GenericTypeExtractor.swift"
+  : [1691281738, 881977558]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/SwiftExtractor/Sources/SwiftExtractor/Swiftly/Extractors/MethodExtractor.swift"
+  : [1691281738, 882061958]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/SwiftExtractor/Sources/SwiftExtractor/Swiftly/Extractors/ProtocolExtractor.swift"
+  : [1691281738, 882116079]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/SwiftExtractor/Sources/SwiftExtractor/Swiftly/Extractors/StructureExtractor.swift"
+  : [1691281738, 882169961]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/SwiftExtractor/Sources/SwiftExtractor/Swiftly/Extractors/SwiftExtractor.swift"
+  : [1691281738, 882232666]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/SwiftExtractor/Sources/SwiftExtractor/Swiftly/Extractors/SwiftVisitor.swift"
+  : [1691281738, 882293701]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/SwiftExtractor/Sources/SwiftExtractor/Swiftly/Extractors/VariableExtractor.swift"
+  : [1691281738, 882344484]

@@ -1,0 +1,4 @@
+module SwiftParser {
+    header "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftParser.build/SwiftParser-Swift.h"
+    requires objc
+}

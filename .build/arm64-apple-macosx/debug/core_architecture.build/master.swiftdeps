@@ -1,0 +1,39 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "c8b7829a7522c9dc915b1b0913e81c3165ed21a2af05582b6a7b5802272e7568"
+build_start_time: [1691281752, 794622898]
+build_end_time: [1691281753, 220859050]
+inputs:
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/core_architecture/Sources/core_architecture/Raw/DataSource/DataSourcing.swift"
+  : [1691281739, 539937973]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/core_architecture/Sources/core_architecture/Raw/DataSource/LocalDataSource.swift"
+  : [1691281739, 540013790]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/core_architecture/Sources/core_architecture/Raw/Dependency/DependencyInjection.swift"
+  : [1691281739, 540108203]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/core_architecture/Sources/core_architecture/Raw/Extensions/Extensions.swift"
+  : [1691281739, 540199756]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/core_architecture/Sources/core_architecture/Raw/Failure/Error.swift"
+  : [1691281739, 540291786]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/core_architecture/Sources/core_architecture/Raw/Failure/ErrorCodes.swift"
+  : [1691281739, 540364027]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/core_architecture/Sources/core_architecture/Raw/Failure/ErrorProvider.swift"
+  : [1691281739, 540421485]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/core_architecture/Sources/core_architecture/Raw/Generation/Generatable.swift"
+  : [1691281739, 540575265]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/core_architecture/Sources/core_architecture/Raw/Generation/Obfuscatable.swift"
+  : [1691281739, 540650129]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/core_architecture/Sources/core_architecture/Raw/Generation/SourceCode.swift"
+  : [1691281739, 540714740]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/core_architecture/Sources/core_architecture/Raw/Module/Data/DataModel.swift"
+  : [1691281739, 540839195]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/core_architecture/Sources/core_architecture/Raw/Module/Data/UIModel/UIModel.swift"
+  : [1691281739, 540939807]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/core_architecture/Sources/core_architecture/Raw/Module/Module/Module/Module.swift"
+  : [1691281739, 541068077]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/core_architecture/Sources/core_architecture/Raw/Module/Module/ViewModuling/ViewModule.swift"
+  : [1691281739, 541164875]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/core_architecture/Sources/core_architecture/Raw/Module/View/View.swift"
+  : [1691281739, 541258335]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/core_architecture/Sources/core_architecture/Raw/Module/ViewModel/ViewModel.swift"
+  : [1691281739, 541356563]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/core_architecture/Sources/core_architecture/core_architecture.swift"
+  : [1691281739, 541413307]

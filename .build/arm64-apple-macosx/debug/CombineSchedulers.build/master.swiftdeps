@@ -1,0 +1,29 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "c998da629e66823467685b86fce9e383d7df04f749c9301f27a3b63c3192b358"
+build_start_time: [1691281748, 553245067]
+build_end_time: [1691281752, 18676996]
+inputs:
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/combine-schedulers/Sources/CombineSchedulers/AnyScheduler.swift"
+  : [1691281738, 746642589]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/combine-schedulers/Sources/CombineSchedulers/Concurrency.swift"
+  : [1691281738, 746713876]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/combine-schedulers/Sources/CombineSchedulers/ImmediateScheduler.swift"
+  : [1691281738, 746881961]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/combine-schedulers/Sources/CombineSchedulers/Internal/Deprecations.swift"
+  : [1691281738, 747018337]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/combine-schedulers/Sources/CombineSchedulers/Internal/Lock.swift"
+  : [1691281738, 747120857]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/combine-schedulers/Sources/CombineSchedulers/Internal/NSRecursiveLock.swift"
+  : [1691281738, 747182369]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/combine-schedulers/Sources/CombineSchedulers/SwiftUI.swift"
+  : [1691281738, 747253417]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/combine-schedulers/Sources/CombineSchedulers/TestScheduler.swift"
+  : [1691281738, 747376441]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/combine-schedulers/Sources/CombineSchedulers/Timer.swift"
+  : [1691281738, 747462749]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/combine-schedulers/Sources/CombineSchedulers/UIKit.swift"
+  : [1691281738, 747529506]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/combine-schedulers/Sources/CombineSchedulers/UIScheduler.swift"
+  : [1691281738, 747594118]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/combine-schedulers/Sources/CombineSchedulers/UnimplementedScheduler.swift"
+  : [1691281738, 747653245]

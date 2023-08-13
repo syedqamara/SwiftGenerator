@@ -1,0 +1,51 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "a2ce34099f7d1bfa7ef587d217bf87f12d62bd6aa56e450b693ac74e52e8b969"
+build_start_time: [1691281752, 74348926]
+build_end_time: [1691281752, 733192920]
+inputs:
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/swift-dependencies/Sources/Dependencies/Dependency.swift"
+  : [1691281739, 586986]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/swift-dependencies/Sources/Dependencies/DependencyContext.swift"
+  : [1691281739, 704765]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/swift-dependencies/Sources/Dependencies/DependencyKey.swift"
+  : [1691281739, 837326]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/swift-dependencies/Sources/Dependencies/DependencyValues.swift"
+  : [1691281739, 979423]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/swift-dependencies/Sources/Dependencies/DependencyValues/Calendar.swift"
+  : [1691281739, 1075267]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/swift-dependencies/Sources/Dependencies/DependencyValues/Clocks.swift"
+  : [1691281739, 1145601]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/swift-dependencies/Sources/Dependencies/DependencyValues/Context.swift"
+  : [1691281739, 1205205]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/swift-dependencies/Sources/Dependencies/DependencyValues/Date.swift"
+  : [1691281739, 1277923]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/swift-dependencies/Sources/Dependencies/DependencyValues/FireAndForget.swift"
+  : [1691281739, 1360416]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/swift-dependencies/Sources/Dependencies/DependencyValues/Locale.swift"
+  : [1691281739, 1444339]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/swift-dependencies/Sources/Dependencies/DependencyValues/MainQueue.swift"
+  : [1691281739, 1520633]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/swift-dependencies/Sources/Dependencies/DependencyValues/MainRunLoop.swift"
+  : [1691281739, 1585483]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/swift-dependencies/Sources/Dependencies/DependencyValues/OpenURL.swift"
+  : [1691281739, 1645803]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/swift-dependencies/Sources/Dependencies/DependencyValues/TimeZone.swift"
+  : [1691281739, 1714468]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/swift-dependencies/Sources/Dependencies/DependencyValues/URLSession.swift"
+  : [1691281739, 1800060]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/swift-dependencies/Sources/Dependencies/DependencyValues/UUID.swift"
+  : [1691281739, 1876354]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/swift-dependencies/Sources/Dependencies/DependencyValues/WithRandomNumberGenerator.swift"
+  : [1691281739, 1955986]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/swift-dependencies/Sources/Dependencies/Internal/Deprecations.swift"
+  : [1691281739, 4284858]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/swift-dependencies/Sources/Dependencies/Internal/Exports.swift"
+  : [1691281739, 4351139]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/swift-dependencies/Sources/Dependencies/Internal/OpenExistential.swift"
+  : [1691281739, 4413127]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/swift-dependencies/Sources/Dependencies/Internal/RuntimeWarnings.swift"
+  : [1691281739, 4494190]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/swift-dependencies/Sources/Dependencies/Internal/TypeName.swift"
+  : [1691281739, 4558086]
+  ? "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/checkouts/swift-dependencies/Sources/Dependencies/WithDependencies.swift"
+  : [1691281739, 4676818]

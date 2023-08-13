@@ -1,0 +1,146 @@
+{
+  "object" : {
+    "artifacts" : [
+
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "combine-schedulers",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/pointfreeco/combine-schedulers",
+          "name" : "combine-schedulers"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "ec62f32d21584214a4b27c8cee2b2ad70ab2c38a",
+            "version" : "0.11.0"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "combine-schedulers"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "core_architecture",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/syedqamara/core_architecture.git",
+          "name" : "Core"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "9feabeab7628d96265bb6a0586cdd9b6a81141f6",
+            "version" : "1.0.3"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "core_architecture"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-clocks",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/pointfreeco/swift-clocks",
+          "name" : "swift-clocks"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "0fbaebfc013715dab44d715a4d350ba37f297e4d",
+            "version" : "0.4.0"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-clocks"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-concurrency-extras",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/pointfreeco/swift-concurrency-extras",
+          "name" : "swift-concurrency-extras"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "479750bd98fac2e813fffcf2af0728b5b0085795",
+            "version" : "0.1.1"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-concurrency-extras"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-dependencies",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/pointfreeco/swift-dependencies",
+          "name" : "swift-dependencies"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "16fd42ae04c6e7f74a6a86395d04722c641cccee",
+            "version" : "0.6.0"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-dependencies"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-syntax",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/apple/swift-syntax.git",
+          "name" : "SwiftSyntax"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "2c49d66d34dfd6f8130afdba889de77504b58ec0",
+            "version" : "508.0.1"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-syntax"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swiftextractor",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/syedqamara/SwiftExtractor.git",
+          "name" : "SwiftExtractor"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "cc0464f6b283e18ec9c9e977efbb8a9a5a6b8dac",
+            "version" : "1.0.1"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "SwiftExtractor"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "xctest-dynamic-overlay",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/pointfreeco/xctest-dynamic-overlay",
+          "name" : "xctest-dynamic-overlay"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "50843cbb8551db836adec2290bb4bc6bac5c1865",
+            "version" : "0.9.0"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "xctest-dynamic-overlay"
+      }
+    ]
+  },
+  "version" : 5
+}

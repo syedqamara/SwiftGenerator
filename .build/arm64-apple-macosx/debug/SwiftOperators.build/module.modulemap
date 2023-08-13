@@ -1,0 +1,4 @@
+module SwiftOperators {
+    header "/Users/apple/Documents/Scripting/Libraries/experiment_generation/ExperimentGenerator/.build/arm64-apple-macosx/debug/SwiftOperators.build/SwiftOperators-Swift.h"
+    requires objc
+}

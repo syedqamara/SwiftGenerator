@@ -1,0 +1,35 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "885dd2f5d74faec0e1c89b53a9ce0ddf7cde18c35e8ea4ab597ff19a4503a69c"
+build_start_time: [1689821196, 880208969]
+build_end_time: [1689821202, 232254028]
+inputs:
+  ? "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/Yams/Constructor.swift"
+  : [1689821193, 406708240]
+  ? "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/Yams/Decoder.swift"
+  : [1689821193, 406819820]
+  ? "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/Yams/Emitter.swift"
+  : [1689821193, 406940937]
+  ? "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/Yams/Encoder.swift"
+  : [1689821193, 407084465]
+  ? "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/Yams/Mark.swift"
+  : [1689821193, 407152891]
+  ? "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/Yams/Node.Mapping.swift"
+  : [1689821193, 407240867]
+  ? "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/Yams/Node.Scalar.swift"
+  : [1689821193, 407308578]
+  ? "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/Yams/Node.Sequence.swift"
+  : [1689821193, 407380819]
+  ? "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/Yams/Node.swift"
+  : [1689821193, 407491683]
+  ? "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/Yams/Parser.swift"
+  : [1689821193, 407603979]
+  ? "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/Yams/Representer.swift"
+  : [1689821193, 407690048]
+  ? "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/Yams/Resolver.swift"
+  : [1689821193, 407766819]
+  ? "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/Yams/String+Yams.swift"
+  : [1689821193, 407841205]
+  ? "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/Yams/Tag.swift"
+  : [1689821193, 407918930]
+  ? "/Users/apple/Documents/Scripting/AutoGenerating/experiment_generation/ExperimentGenerator/.build/checkouts/Yams/Sources/Yams/YamlError.swift"
+  : [1689821193, 408000469]
