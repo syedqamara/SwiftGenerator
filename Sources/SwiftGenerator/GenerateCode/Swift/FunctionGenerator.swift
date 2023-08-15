@@ -17,6 +17,7 @@ public class FunctionCodeGenerator: CodeGenerator<Function, FunctionDeclSyntax> 
     public override func generate(_ input: Function) -> FunctionDeclSyntax {
         FunctionDeclSyntax(
             modifiers: .init(arrayLiteral: .init(name: .unknown(input.accessModifier.rawValue, trailingTrivia: .space))),
+            funcKeyword: .funcKeyword(trailingTrivia: .space),
             identifier: .identifier(input.name),
             signature: FunctionSignatureSyntax(
                 input: ParameterClauseSyntax(
@@ -38,15 +39,21 @@ public class FunctionParameterCodeGenerator: CodeGenerator<Parameter, FunctionPa
         FunctionParameterSyntax(
             firstName: Token.identifier(input.name),
             secondName: Token.identifier(input.property.name),
-            colon: .colonToken(leadingTrivia: .space),
-            type: TypeSyntax(stringLiteral: input.property.kind.propertyTypeString)
+            colon: .colonToken(trailingTrivia: .space),
+            type: TypeSyntax(stringLiteral: input.property.kind.propertyTypeString),
+            trailingComma: .commaToken(trailingTrivia: .space)
         )
     }
 }
 public class FunctionParametersCodeGenerator: CodeGenerator<Function, FunctionParameterListSyntax> {
     @Dependency(\.parameterGenerator) private var parameterGenerator
     public override func generate(_ input: Function) -> FunctionParameterListSyntax {
-        let parameters = input.parameters.map { parameterGenerator.generate($0) }
+        var parameters = input.parameters.map { parameterGenerator.generate($0) }
+        if var last = parameters.last {
+            parameters.removeLast()
+            last.trailingComma = nil
+            parameters.append(last)
+        }
         return FunctionParameterListSyntax(parameters)
     }
 }

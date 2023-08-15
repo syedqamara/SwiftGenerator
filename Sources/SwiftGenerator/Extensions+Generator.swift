@@ -17,6 +17,7 @@ extension URL {
         !isRemoteURL
     }
     var filePath: String { absoluteString }
+    static let `default` = URL(string: "https://www.google.com")!
 }
 extension Bool {
     var letOrVar: TokenSyntax {
@@ -39,6 +40,40 @@ extension Trivia {
 extension PropertyType {
     var propertyTypeString: String {
         return name + (isOptional ? "?" : "")
+    }
+    static func type(name: String) -> PropertyType {
+        .init(
+            url: .default,
+            name: name,
+            constraint: .none,
+            isOptional: false
+        )
+    }
+    static func typeOptional(name: String) -> PropertyType {
+        .init(
+            url: .default,
+            name: name,
+            constraint: .none,
+            isOptional: true
+        )
+    }
+}
+extension ParameterProperty {
+    static func property(name: String, type: String) -> Self {
+        .init(
+            url: .default,
+            name: name,
+            kind: .type(name: type),
+            declatationSyntax: nil
+        )
+    }
+    static func propertyOptional(name: String, type: String) -> Self {
+        .init(
+            url: .default,
+            name: name,
+            kind: .typeOptional(name: type),
+            declatationSyntax: nil
+        )
     }
 }
 

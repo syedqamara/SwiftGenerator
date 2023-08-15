@@ -3,9 +3,7 @@ import Dependencies
 import SwiftExtractor
 @testable import SwiftGenerator
 
-extension URL {
-    static let `default` = URL(string: "https://www.google.com")!
-}
+
 
 final class VariableGeneratorTests: XCTestCase {
     @Dependency(\.variableGenerator) var generator
