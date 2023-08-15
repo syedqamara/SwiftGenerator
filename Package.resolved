@@ -59,8 +59,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/syedqamara/SwiftExtractor.git",
       "state" : {
-        "revision" : "e872f697dd95042d29d323ad04e8207b3dd1f66c",
-        "version" : "1.0.13"
+        "revision" : "09ea2f7a4e26ab02c7874e0531e97c9610553625",
+        "version" : "1.0.17"
       }
     },
     {

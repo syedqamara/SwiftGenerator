@@ -12,7 +12,7 @@ import SwiftSyntaxBuilder
 import SwiftExtractor
 import Dependencies
 
-public protocol CodeGeneratable: IOProtocol {
+public protocol CodeGeneratable: IOProtocol where Output: SyntaxProtocol {
     init()
     func generate(_ input: Input) -> Output
 }

@@ -70,3 +70,12 @@ extension FunctionGenerator: TestDependencyKey, DependencyKey {
     public static var previewValue: FunctionGenerator { .init() }
     public static var liveValue: FunctionGenerator { .init() }
 }
+
+
+// MARK: - Class Generator Dependencies
+
+extension ClassGenerator: TestDependencyKey, DependencyKey {
+    public static var testValue: ClassGenerator { .init() }
+    public static var previewValue: ClassGenerator { .init() }
+    public static var liveValue: ClassGenerator { .init() }
+}

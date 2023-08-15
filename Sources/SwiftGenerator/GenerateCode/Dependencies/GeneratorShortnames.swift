@@ -18,3 +18,4 @@ public typealias ParameterGenerator = FunctionParameterCodeGenerator
 public typealias ParametersGenerator = FunctionParametersCodeGenerator
 public typealias ReturnTypeGenerator = FunctionReturnTypeCodeGenerator
 
+public typealias ClassGenerator = ClassCodeGenerator

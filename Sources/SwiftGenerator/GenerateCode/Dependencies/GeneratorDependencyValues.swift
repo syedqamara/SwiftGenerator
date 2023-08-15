@@ -42,4 +42,8 @@ extension DependencyValues {
         get { self[FunctionGenerator.self] }
         set { self[FunctionGenerator.self] = newValue }
     }
+    public var classGenerator: ClassGenerator {
+        get { self[ClassGenerator.self] }
+        set { self[ClassGenerator.self] = newValue }
+    }
 }

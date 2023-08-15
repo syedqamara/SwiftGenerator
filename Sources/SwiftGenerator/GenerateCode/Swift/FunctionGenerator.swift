@@ -21,12 +21,14 @@ public class FunctionCodeGenerator: CodeGenerator<Function, FunctionDeclSyntax> 
             identifier: .identifier(input.name),
             signature: FunctionSignatureSyntax(
                 input: ParameterClauseSyntax(
-                    parameterList: parametersGenerator.generate(input)
+                    parameterList: parametersGenerator.generate(input),
+                    trailingTrivia: getReturnType(input) == nil ? nil : .space
                 ),
                 output: getReturnType(input)
             )
         )
     }
+    
     private func getReturnType(_ input: Function) -> ReturnClauseSyntax? {
         if let returnType = input.return {
             return returnTypeGenerator.generate(returnType)
@@ -61,7 +63,9 @@ public class FunctionReturnTypeCodeGenerator: CodeGenerator<PropertyType, Return
     @Dependency(\.parameterGenerator) private var parameterGenerator
     public override func generate(_ input: PropertyType) -> ReturnClauseSyntax {
         ReturnClauseSyntax(
-            returnType: TypeSyntax(stringLiteral:  input.propertyTypeString)
+            arrow: .arrowToken(trailingTrivia: .space),
+            returnType: TypeSyntax(stringLiteral:  input.propertyTypeString).withTrailingTrivia(.zero),
+            trailingTrivia: .zero
         )
     }
 }

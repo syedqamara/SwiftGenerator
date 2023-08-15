@@ -1,24 +1,21 @@
 //
-//  FunctionGeneratorTests.swift
+//  File.swift
 //  
 //
-//  Created by Apple on 13/08/2023.
+//  Created by Apple on 16/08/2023.
 //
 
 import Foundation
-import XCTest
-import Dependencies
 import SwiftExtractor
 @testable import SwiftGenerator
 
-final class FunctionGeneratorTests: XCTestCase {
-    @Dependency(\.functionGenerator) private var functionGenerator
-    func testSimpleFunction() throws {
+extension Function {
+    static func calculateFunction(accessModifire: _ModifierType_ = .internal) -> GeneratorTestInput<Self> {
         let function = Function(
             url: .default,
             name: "calculate",
             return: .type(name: "Double"),
-            accessModifier: .public,
+            accessModifier: accessModifire,
             parameters: [
                 .init(
                     url: .default,
@@ -39,10 +36,19 @@ final class FunctionGeneratorTests: XCTestCase {
             declatationSyntax: nil,
             generics: []
         )
-        let functionSyntax = functionGenerator.generate(function)
-        print("------------------------------------")
-        print("\(functionSyntax.description)")
-        print("------------------------------------")
-        
+        let description = "\(accessModifire.rawValue) func calculate(value1: Double, value2: Double, sign: Sign) -> Double"
+        return .init(source: function, code: description)
+    }
+    static func mainFunction(accessModifire: _ModifierType_ = .internal) -> GeneratorTestInput<Self> {
+        let function = Function(
+            url: .default,
+            name: "main",
+            accessModifier: accessModifire,
+            parameters: [],
+            declatationSyntax: nil,
+            generics: []
+        )
+        let description = "\(accessModifire.rawValue) func main()"
+        return .init(source: function, code: description)
     }
 }
